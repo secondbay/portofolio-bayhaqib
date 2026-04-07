@@ -5,7 +5,7 @@ Website portofolio pribadi yang berisi informasi tentang saya, skill, dan projec
 ---
 
 ## Tentang Saya
-Halo, saya Ibnu Bayhaqi, lulusan Teknologi Informasi yang memiliki minat di bidang DevOps, System Administration, dan Cloud Computing.
+Halo, saya Ibnu Bayhaqi, lulusan Teknologi Informasi dari Universitas Bina Sarana Informatika yang memiliki minat di bidang DevOps, System Administration, dan Cloud Computing.
 
 ---
 
