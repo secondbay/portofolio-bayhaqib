@@ -1,38 +1,50 @@
-### Description
+# Portfolio Website
 
-A simple portfolio template for developer/designers built with React. 
+Website portofolio pribadi yang berisi informasi tentang saya, skill, dan project yang pernah saya buat.
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+---
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+## Tentang Saya
+Halo, saya Ibnu Bayhaqi, lulusan Teknologi Informasi yang memiliki minat di bidang DevOps, System Administration, dan Cloud Computing.
 
-### Features
+---
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
+## Tujuan Pembelajaran
 
-### Setup
+Project ini merupakan bagian dari proses belajar DevOps saya dengan tujuan:
+- Mengelola deployment aplikasi ke server
+- Menggunakan Docker untuk containerization
+- Membangun CI/CD pipeline untuk otomatisasi deployment
 
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
+---
 
 
-Start the server
+## Fitur
+- Menampilkan data diri
+- Daftar skill
+- Portfolio project
+- Tampilan responsive
 
-<pre>yarn start</pre>
+---
 
-### More
+## Tech Stack
+- React.js
+- JavaScript
+- CSS
 
-Modify pages content in  `src/content_option.js`.
+---
 
-### Thanks
+## nstallation (Local)
+Clone repository:
+```bash
+git clone https://github.com/secondbay/portfolio-bayhaqib.git
+cd portfolio-bayhaqib
+yarn install
+yarn start
 
-If you like this portfolio template don't forget give it a ⭐ 
+## 📈 Progress
+- [x] Setup project
+- [x] Version control (Git)
+- [ ] Deploy ke Vercel
+- [ ] Dockerize
+- [ ] CI/CD pipeline
