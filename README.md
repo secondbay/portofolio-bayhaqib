@@ -34,7 +34,7 @@ Project ini merupakan bagian dari proses belajar DevOps saya dengan tujuan:
 
 ---
 
-## nstallation (Local)
+## Installation (Local)
 Clone repository:
 ```bash
 git clone https://github.com/secondbay/portfolio-bayhaqib.git
