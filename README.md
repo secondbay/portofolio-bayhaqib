@@ -34,6 +34,15 @@ Project ini merupakan bagian dari proses belajar DevOps saya dengan tujuan:
 
 ---
 
+## Progress
+- [x] Setup project
+- [x] Version control (Git)
+- [ ] Deploy ke Vercel
+- [ ] Dockerize
+- [ ] CI/CD pipeline
+
+---
+
 ## Installation (Local)
 Clone repository:
 ```bash
@@ -42,9 +51,3 @@ cd portfolio-bayhaqib
 yarn install
 yarn start
 
-## 📈 Progress
-- [x] Setup project
-- [x] Version control (Git)
-- [ ] Deploy ke Vercel
-- [ ] Dockerize
-- [ ] CI/CD pipeline
