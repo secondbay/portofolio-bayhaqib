@@ -18,21 +18,9 @@ Project ini merupakan bagian dari proses belajar DevOps saya dengan tujuan:
 
 ---
 
-
-## Fitur
-- Menampilkan data diri
-- Daftar skill
-- Portfolio project
-- Tampilan responsive
-
----
-
 ## Tech Stack
 - React.js
-- JavaScript
-- CSS
 
----
 
 ## Progress
 - [x] Setup project
